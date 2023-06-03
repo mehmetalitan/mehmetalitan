@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmetalitan
-- 👀 I’m interested in coding in C, C++
-- 🌱 I’m currently learning Assembly coding
+- 👀 I’m interested in coding in(GNU) C, C++
+- 🌱 I’m currently learning Assembly coding as well as arithmetic algorithms on ALU's or embdedded systems.
 - 💞️ I’m looking to collaborate on Assembly
 - 📫 How to reach me E-mail: mehmet.ali.tan@gmail.com
 
