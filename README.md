@@ -1,4 +1,4 @@
-- 👋 Hi, I am squeakysquerrel
+- 👋 Hi, I am squeakysquirrel
   
 - 👀 I’m interested in coding in(GNU) C, C++
 - 🌱 I’m currently learning Assembly coding as well as arithmetic algorithms on ALU's or embedded systems.
